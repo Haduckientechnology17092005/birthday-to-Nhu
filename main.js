@@ -43,7 +43,7 @@ TypeWriter.prototype.type = function(){
     }
     //Print full name
     
-    setTimeout(()=> this.type(), 500)
+    setTimeout(()=> this.type(), 1000)
 }
 //Init on DOM LOAD
 document.addEventListener('DOMContentLoaded',init);
