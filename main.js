@@ -67,5 +67,5 @@ document.addEventListener('DOMContentLoaded', (event) => {
     }, 2000); // Delay in milliseconds
 });
 function nextpage(){
-    window.location.href = "https://www.youtube.com/watch?v=dQw4w9WgXcQ";
+    window.location.href = "https://www.facebook.com";
 }
