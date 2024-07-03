@@ -67,5 +67,5 @@ document.addEventListener('DOMContentLoaded', (event) => {
     }, 2000); // Delay in milliseconds
 });
 function nextpage(){
-    window.location.href = "https://www.facebook.com";
+    window.location.href = "https://haduckientechnology17092005.github.io/birthday_v1/";
 }
